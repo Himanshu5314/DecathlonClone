@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decathlon</string>
+    <string name="refresh">Refresh</string>
+    <string name="search_string">search..</string>
+    <string name="sort_by_name">sort by name</string>
+    <string name="sort_by_price">sort by price</string>
+</resources>
